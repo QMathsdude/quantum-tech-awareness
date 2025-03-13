@@ -98,7 +98,7 @@ Meanwhile, a more comprehensive analysis was done, which *seperate students* fro
 
 ### 4. Interest in QT
 
-- Interest in QT is also highest among Science students (Mean = 3.82), followed by Engineering (Mean = 2.97) and Computer Science (Mean = 2.79). Science students foresee the highest long-term benefits from QT (Mean = 4.64), compared to Engineering (Mean = 3.97) and Computer Science (Mean = 3.97).
+- Interest in QT is also highest among Science students (Mean = 3.82), followed by Engineering (Mean = 2.97) and Computer Science (Mean = 2.79).
 
 ### 5. Who Deems QT the Most Important & Impactful?
 
